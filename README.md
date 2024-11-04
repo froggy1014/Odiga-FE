@@ -67,6 +67,8 @@
     <a href="https://odiga.shop/swagger-ui/index.html" target="_blank" rel="noopener noreferrer nofollow">스웨거</a>  
     <span> - </span>
     <a href="https://odiga.shop/swagger-ui/index.html" target="_blank" rel="noopener noreferrer nofollow">스토리북</a>  
+    <span> - </span>
+    <a href="https://youtu.be/0kdoPL7jVJg" target="_blank" rel="noopener noreferrer nofollow">데모</a>  
 </div>
 
 # 🖐️ Introduction
